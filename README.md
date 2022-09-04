@@ -1,2 +1,1 @@
-# JJTech-teraform-main
-JJTech-teraform-main
+# avinash-terraform
